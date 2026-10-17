@@ -1,0 +1,15 @@
+linux/
+macos/
+windows/
+.dart_tool/
+build/
+*.iml
+local.properties
+Generated.xcconfig
+flutter_export_environment.sh
+ephemeral/
+GeneratedPluginRegistrant.*
+generated_plugin_registrant.*
+generated_plugins.cmake
+.kiro/
+*Verdicts.md
